@@ -1,0 +1,16 @@
+[
+{
+  "modid": "idkmanlol",
+  "name": "fog client",
+  "description": "vibe code ass client",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": "lol",
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

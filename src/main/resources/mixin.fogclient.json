@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.7.11",
+  "package": "com.fogclient.mixin",
+  "refmap": "refmap.fogclient.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinEntityRenderer",
+    "MixinNetworkManager"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
